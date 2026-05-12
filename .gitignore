@@ -205,6 +205,11 @@ tempCodeRunnerFile.py
 
 # Ruff stuff:
 .ruff_cache/
+.cache/
+.matplotlib-cache/
+landing.png
+landing.gif
+trajectory.csv
 
 # PyPI configuration file
 .pypirc
